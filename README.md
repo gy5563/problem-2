@@ -1,4 +1,4 @@
-## Problem 2: Fancy Form
+# Problem 2: Fancy Form
 
 ### Description
 
